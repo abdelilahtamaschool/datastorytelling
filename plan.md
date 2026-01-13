@@ -1,0 +1,3 @@
+# Plan
+Ik merk dat dat de grafieken die nu in @netflix_eda.ipynb staan niet helemaal een mooi verhaal vertellen. Pie charts zijn echt alleen oke voor 2 variabelen aan tonen. ik wil dat je wat meer grafieken maakt die een mooi verhaal vertellen en grafieken gebruikt die je niet vaak voor ziet komen. 
+daarnaast is de roc curve image extreem onleesbaar. Vergeet niet dat ik een data story telling manier van uitleggen moet gebruiken en het zou fijn zijn als de grafieken daar op afgestemd zijn aub.

@@ -1,0 +1,12 @@
+# Temporary files
+tmpclaude-*
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
